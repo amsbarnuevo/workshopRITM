@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-![](img/dg_logo.jpg){fig-align="center"}
+![](img/dg_logo.jpg){fig-align="center" width="581"}

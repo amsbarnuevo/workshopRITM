@@ -2,26 +2,137 @@
 title: "UNIT 3 - Digital Epidemiology Tool: PATHOGENWATCH"
 ---
 
-# **OUTLOOK**
+# ![](images/clipboard-2576171563.png){width="37"}**OUTLOOK**
 
-Unit 1 describes the rationale and the steps on the conduct of outbreak investigation of ARSRL featuring the SaTScan software of WHONET and Whole Genome Sequencing. At the end of this unit, the participants shall be able to:
+At the end of this unit, the participants shall be able to:
 
--   recognize the rationale of the conduct of the outbreak investigation protocol; and
+-   identify the key features of Pathogenwatch; and
 
--   enumerate the steps of the ARSRL outbreak investigation protocol.
+-   recognize the analyses that can be generated through Pathogenwatch
 
-# **LESSON PROPER**
+# ![](images/clipboard-3773386938.png){width="37" height="35"}**LESSON PROPER**
 
-## **Background**
+Pathogenwatch is a free web based tool for processing and visualization of microbial genome sequences in phylogenetic and geographical contexts. First, this genomic tool allows you to upload microbial genomes to access an array of automatic analyses which includes the following:
 
-Antimicrobial Resistance (AMR) is the change that occurs over time among bacteria, viruses, fungi and parasites where these organisms no longer respond to medicines making infections harder to treat and increasing the risk of disease spread, severe illness and death. ^\[1\]^ AMR is a serious public health threat because of its far reaching and serious implications in health care as well as economies. AMR hampers the control of infectious diseases because patients remain infectious for a longer time increasing the risk of spreading resistant microorganisms to others. AMR increases the cost of health care as more expensive therapies must be used when infections become resistant to first-line medicines. Infections due to resistant microorganisms increases economic burden to families and societies as it often results in longer duration of illness and treatment.
+-   Species assignment using "Speciator".
 
-The DOH-ARSP is a sentinel laboratory-based antimicrobial resistance surveillance on aerobic bacteria from clinical specimens. Currently participating in the program are 24 sentinel sites, and 2 gonococcal surveillance sites, representing 16 out of the 17 regions of the country. The surveillance collects data on culture and antimicrobial susceptibility from its 24 sentinel sites and 2 gonococcal surveillance sites. Case finding is based on priority specimens sent routinely to sentinel sites laboratories for clinical purposes
+-   Over 20 core genome MLST schemes.
 
-All sentinel sites implement standard methods for culture and susceptibility testing based on the WHO Manual for the Laboratory Identification and Antimicrobial Susceptibility Testing of Bacterial Pathogens of Public Health Importance in the Developing World 3 and the updated Clinical Laboratory Standards Institute (CLSI) references for antibiotic susceptibility testing and quality control. Panel of antibiotics for testing are based on the latest CLSI recommendations. In the analysis of antimicrobial susceptibility testing, an isolate is considered resistant to an antimicrobial agent when tested and interpreted as resistant (R) in accordance with the clinical breakpoint criteria based on the most recent Clinical Laboratory Standards Institute (CLSI) references for antibiotic susceptibility testing ^\[2\]^ The culture and antimicrobial susceptibility test results are encoded using a database software called WHONET. WHONET is Windows-based database software developed by the WHO Collaborating Centre for Surveillance of Antimicrobial Resistance based at the Brigham and Women's Hospital in Boston for the management and analysis of microbiology laboratory data with a special focus on the analysis of antimicrobial susceptibility test results. Using a standard format, routine culture and antimicrobial susceptibility test results are sent through automatic data transfer by the sentinel sites to the coordinating laboratory of the program – the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) at the Research Institute for Tropical Medicine.
+-   Typing with classic MLST, Genotyphi, NG-MAST, PopPUNK and others.
 
-The ARSRL’s Data Management Unit manages the cleaning, analysis, storage and security of the program’s surveillance data. Sentinel sites likewise send isolates with unusual antimicrobial susceptibility patterns to ARSRL for phenotypic and genotypic confirmatory testing. At the reference laboratory, all isolates with unusual susceptibility patterns received for confirmatory testing are re-identified using both automated (Vitek) and conventional methods. Both minimum inhibitor concentration (MIC) - via automated method (Vitek) and gradient E-test, and disk diffusion are employed in antimicrobial susceptibility testing. As indicated, additional testing is done for specific antibiotics which are not included in AST card in use in the reference laboratory and for susceptibility testing for specific bacteria such as *N. gonorrhea* which requires manual AST methods. Serotyping for *S. pneumoniae*, *H. influenzae*, *Salmonellae*, *Shigellae* and *Vibrio cholera*e were done for 2022. Further, for 2022, select isolates with resistance phenotype which have not been previously reported or have been only rarely reported to date underwent whole genome sequencing (WGS) at the Antimicrobial Surveillance Reference Laboratory (ARSRL). The genomic characterization of these isolates is meant to allow for the understanding of resistance mechanisms of these isolates as well as their potential for spread in order to inform control and prevention measures. Beginning January 2018, sentinel sites transmit culture and susceptibility data daily to the reference laboratory (ARSRL) through ARSP ftp server using WinSCP. The automated data transfer facilitates prompt identification by the ARSRL of resistant isolates of public health importance as well the identification of clustering of cases and potential outbreaks among sentinel sites.                  
+-   Antibiotic resistance prediction.
 
- SaTScan is a free cluster-detection software application embedded in WHONET which is used by epidemiologists globally to describe spatial clusters of infectious and chronic disease, as well as disease vectors and risk factors. The software can identify whether the infection is randomly distributed over space, overtime or over space and time. Moreover, it allows the evaluation of the statistical significance of disease cluster alarms. The study of Natale et al. (2017), in a health-care facility in Italy showed that WHONET-saTScan was able to detect higher number of potential outbreaks as compared with the traditional epidemiological approach of investigation.^\[3\]^ Moreover, Huang et al. (2010) stated that  WHONET-SaTScan rapidly detected the two previously known gram negative pathogen clusters and identified six Methicillin Resistant Staphylococcus aureus (MRSA) and four Vancomycin Resistant Enterococci (VRE) clusters that were previously not recorded in the hospital facility.^\[4\]^
+-   Interrogate the database using cgMLST-based clustering and SNP trees.
 
-This software coupled with the use of whole genome sequencing (WGS) are the emerging tools for outbreak investigation.  WGS refers to the construction of the complete nucleotide sequence of a bacterium. This technique enables the analysis of the entire DNA sequence of the genome including the non-coding regions of DNA. Moreover, it has the capacity to identify functionally important sequence variants that affects gene expression. The advantages and functionality of WGS delivers ultimate high resolution genotypic method which makes it a powerful approach for outbreak investigation together with epidemiological approach.
+Moreover, this tool provides extensive collections of publicly available microbial sequences, gathered by publication or survey where possible. The imported genomes are automatically annotated within the in-house pipelines of **Centre for Genomic Pathogen Surveillance (CGPS)** and the results available for download. Pathogenwatch also utilizes a clustering-based system allows the identification of near genomic neighbors for both local and global context mapping of your uploaded genomes. Lastly, this genomic tool makes use of powerful selection tool to integrate public genomes with your own and create a single collection. This collection can be viewed by public to facilitate sharing of insights among researchers.
+
++-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
+| Uploading Genomes to Pathogenwatch                                                                                            |                                                                 |
++===============================================================================================================================+=================================================================+
+| **Open Pathogenwatch**                                                                                                        | ![](images/clipboard-1874442397.png)                            |
+|                                                                                                                               |                                                                 |
+| Navigate to <https://pathogen.watch/upload> and click on the “Single-genome FASTAs” image in the center of the screen.        |                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
+| **Upload your file**                                                                                                          | ![](images/clipboard-364393205.png)                             |
+|                                                                                                                               |                                                                 |
+| Click the plus button in the bottom right corner and then navigate to where your FASTA files, or FASTQ files are stored.      |                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
+| **View the genomes**                                                                                                          | ![](images/clipboard-1209165840.png){width="291"}               |
++-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
+| **Create and view collection**                                                                                                | ![](images/clipboard-904714304.png){width="589"}                |
++-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Exploring Genomes in Pathogenwatch                                                                                                               |
++==================================================================================================================================================+
+| At the top left of the table you’ll see a lozenge button that says “Typing.” This will provide information on the multi locus sequencing type of |
+| the organism following the Pasteur scheme.                                                                                                       |
+|                                                                                                                                                  |
+| ![](images/clipboard-3142052682.png){width="907"}                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Next, click on the “Stats”, to show the quality control metrics for each of the isolate analyzed.                                                |
+|                                                                                                                                                  |
+| ![](images/clipboard-2669170310.png){width="897"}                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Then, click on “AMR Determinants” to view the AMR genes observed in the isolates.                                                                |
+|                                                                                                                                                  |
+| ![](images/clipboard-4194954129.png){width="898"}                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------------+
+
+In addition to providing big picture information about how isolates relate to each other, Pathogenwatch also provides individual reports that can be downloaded or printed to share with partners or submitters. The figures below show the generated report on one isolate.
+
+![![](images/clipboard-179681095.png)](images/clipboard-660650382.png){fig-align="left"}
+
+## ![](images/clipboard-2875865812.png){width="37"}**BRAINWORK**
+
+To learn and explore more on the advanced features of Pathogenwatch, click on the link below:
+
+<https://cgps.gitbook.io/pathogenwatch/>
+
+## ![](images/clipboard-65376900.png){width="37"}**CLOCK - UP**
+
+*This section of the module will include the actual group activities during the workshop. Kindly follow the instructions below.*
+
+1.  Lend your ears to our esteemed facilitators as they demonstrate the following:
+
+    a.  Uploading of genomes to Pathogenwatch
+
+    b.  Navigation through the lozenge buttons
+
+    c.  Create genome collection
+
+    d.  Describe the findings of the generated analyses in the individual report
+
+2.  Take down notes and scan the QR code below for any question.
+
+![](images/clipboard-3810601315.png){fig-align="center"}
+
+3.  Accomplish the following checkpoint exercise.
+
+## ![](images/clipboard-2057582273.png){width="37"}**FLICK**
+
+For your further reading, the following journal articles below utilized Pathogenwatch for their study analysis.
+
++--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
+| **Study Title**                                                                                                                            | **Author/s**               | **DOI**                                                                                       |
++--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
+| Rapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch                                                   | Argimon et al. 2021        | <https://doi.org/10.1093/cid/ciab784>                                                         |
++--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
+| A community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch     | Sanchez-Buso et al. 2021   | [doi:]{.underline} [10.1186/s13073-021-00858-2](https://doi.org/10.1186%2Fs13073-021-00858-2) |
++--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
+| A global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch                | Argimon et al. 2021        | [doi:]{.underline} [10.1038/s41467-021-23091-2](https://doi.org/10.1038%2Fs41467-021-23091-2) |
++--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
+
+## ![](images/clipboard-1825711664.png){width="37"}**CHECKPOINT**
+
+Modified True or False:  For items 1-5, choose the letter that corresponds to your answer.
+
+A = The first statement is correct; the second statement is incorrect
+
+B = The first statement is incorrect; the second statement is correct
+
+C= Both statements are correct
+
+D = Both statements are incorrect
+
++:------------------------------------:+:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 1.  *Statement 1*: When using Pathogenwatch, users can easily monitor the spread of microbial pathogens across different time periods and locations.                                      |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* The platform aids in developing targeted interventions by providing insights into the way pathogens evolve and spread.                                                 |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 2.  *Statement 1:* Pathogenwatch facilitates epidemiologic studies of various microbial pathogens, including bacteria like *Klebsiella pneumoniae*, *Escherichia coli*, and among others. |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* Pathogenwatch can be integrated with existing surveillance systems                                                                                                     |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 3.  *Statement 1:* Pathogenwatch is a subscription-based service offered by Center for Genomic Pathogen Surveillance.                                                                     |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* Pathogenwatch is only accessible via software application to be installed in the computer.                                                                             |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 4.  *Statement 1:* The use of Pathogenwatch is exclusive and limited to low- and middle income countries only                                                                             |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* Pathogenwatch has the capacity to predict and analyze genomic profiles including antimicrobial resistance determinants for potential emerging variants.                |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 5.  *Statement 1:* By sharing genomic data and analysis tools, Pathogenwatch enables a coordinated response to infectious disease threats on a global scale.                              |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:*  Pathogenwatch users have unlimited access to all data on disease outbreaks around the world.                                                                          |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
