@@ -4,13 +4,11 @@ title: "SYLLABUS"
 
 # **MODULE SPECIFICATION**
 
-+------------------------+--------------------------------------------------------------------+
-| **Target Audience**    | Public Health Professionals                                        |
-+------------------------+--------------------------------------------------------------------+
-| **Learning Hours**     | 10 hours                                                           |
-+------------------------+--------------------------------------------------------------------+
-| **Module Developer**   | RITM-Antimicrobial Resistance Surveillance Reference Laboratory    |
-+------------------------+--------------------------------------------------------------------+
+|                      |                                                                 |
+|----------------------|-----------------------------------------------------------------|
+| **Target Audience**  | Public Health Professionals                                     |
+| **Learning Hours**   | 10 hours                                                        |
+| **Module Developer** | RITM-Antimicrobial Resistance Surveillance Reference Laboratory |
 
 # **WORSHOP OBJECTIVES**
 

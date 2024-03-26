@@ -10,7 +10,7 @@ website:
         text: Home
       - href: agenda.qmd
         text: Agenda
-      - href: syllabus.qmd
+      - href: Syllabus.qmd
         text: Syllabus  
       - href: speakers.qmd
         text: Resource Speakers
