@@ -194,26 +194,125 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="outlook" class="level1">
-<h1><strong>OUTLOOK</strong></h1>
-<p>Unit 1 describes the rationale and the steps on the conduct of outbreak investigation of ARSRL featuring the SaTScan software of WHONET and Whole Genome Sequencing. At the end of this unit, the participants shall be able to:</p>
+<h1><img src="images/clipboard-166322687.png" class="img-fluid" width="37"><strong>OUTLOOK</strong></h1>
+<p>At the end of this unit, the participants shall be able to:</p>
 <ul>
-<li><p>recognize the rationale of the conduct of the outbreak investigation protocol; and</p></li>
-<li><p>enumerate the steps of the ARSRL outbreak investigation protocol.</p></li>
+<li><p>recognize the key features and uses of Microreact</p></li>
+<li><p>manipulate the data visualization tool; and</p></li>
+<li><p>analyze the inputs in the Microreact project</p></li>
 </ul>
 </section>
 <section id="lesson-proper" class="level1">
-<h1><strong>LESSON PROPER</strong></h1>
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background"><strong>Background</strong></h2>
-<p>Antimicrobial Resistance (AMR) is the change that occurs over time among bacteria, viruses, fungi and parasites where these organisms no longer respond to medicines making infections harder to treat and increasing the risk of disease spread, severe illness and death. <sup>[1]</sup> AMR is a serious public health threat because of its far reaching and serious implications in health care as well as economies. AMR hampers the control of infectious diseases because patients remain infectious for a longer time increasing the risk of spreading resistant microorganisms to others. AMR increases the cost of health care as more expensive therapies must be used when infections become resistant to first-line medicines. Infections due to resistant microorganisms increases economic burden to families and societies as it often results in longer duration of illness and treatment.</p>
-<p>The DOH-ARSP is a sentinel laboratory-based antimicrobial resistance surveillance on aerobic bacteria from clinical specimens. Currently participating in the program are 24 sentinel sites, and 2 gonococcal surveillance sites, representing 16 out of the 17 regions of the country. The surveillance collects data on culture and antimicrobial susceptibility from its 24 sentinel sites and 2 gonococcal surveillance sites. Case finding is based on priority specimens sent routinely to sentinel sites laboratories for clinical purposes</p>
-<p>All sentinel sites implement standard methods for culture and susceptibility testing based on the WHO Manual for the Laboratory Identification and Antimicrobial Susceptibility Testing of Bacterial Pathogens of Public Health Importance in the Developing World 3 and the updated Clinical Laboratory Standards Institute (CLSI) references for antibiotic susceptibility testing and quality control. Panel of antibiotics for testing are based on the latest CLSI recommendations. In the analysis of antimicrobial susceptibility testing, an isolate is considered resistant to an antimicrobial agent when tested and interpreted as resistant (R) in accordance with the clinical breakpoint criteria based on the most recent Clinical Laboratory Standards Institute (CLSI) references for antibiotic susceptibility testing <sup>[2]</sup> The culture and antimicrobial susceptibility test results are encoded using a database software called WHONET. WHONET is Windows-based database software developed by the WHO Collaborating Centre for Surveillance of Antimicrobial Resistance based at the Brigham and Women’s Hospital in Boston for the management and analysis of microbiology laboratory data with a special focus on the analysis of antimicrobial susceptibility test results. Using a standard format, routine culture and antimicrobial susceptibility test results are sent through automatic data transfer by the sentinel sites to the coordinating laboratory of the program – the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) at the Research Institute for Tropical Medicine.</p>
-<p>The ARSRL’s Data Management Unit manages the cleaning, analysis, storage and security of the program’s surveillance data. Sentinel sites likewise send isolates with unusual antimicrobial susceptibility patterns to ARSRL for phenotypic and genotypic confirmatory testing. At the reference laboratory, all isolates with unusual susceptibility patterns received for confirmatory testing are re-identified using both automated (Vitek) and conventional methods. Both minimum inhibitor concentration (MIC) - via automated method (Vitek) and gradient E-test, and disk diffusion are employed in antimicrobial susceptibility testing. As indicated, additional testing is done for specific antibiotics which are not included in AST card in use in the reference laboratory and for susceptibility testing for specific bacteria such as <em>N. gonorrhea</em> which requires manual AST methods. Serotyping for <em>S. pneumoniae</em>, <em>H. influenzae</em>, <em>Salmonellae</em>, <em>Shigellae</em> and <em>Vibrio cholera</em>e were done for 2022. Further, for 2022, select isolates with resistance phenotype which have not been previously reported or have been only rarely reported to date underwent whole genome sequencing (WGS) at the Antimicrobial Surveillance Reference Laboratory (ARSRL). The genomic characterization of these isolates is meant to allow for the understanding of resistance mechanisms of these isolates as well as their potential for spread in order to inform control and prevention measures. Beginning January 2018, sentinel sites transmit culture and susceptibility data daily to the reference laboratory (ARSRL) through ARSP ftp server using WinSCP. The automated data transfer facilitates prompt identification by the ARSRL of resistant isolates of public health importance as well the identification of clustering of cases and potential outbreaks among sentinel sites. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;SaTScan is a free cluster-detection software application embedded in WHONET which is used by epidemiologists globally to describe spatial clusters of infectious and chronic disease, as well as disease vectors and risk factors. The software can identify whether the infection is randomly distributed over space, overtime or over space and time. Moreover, it allows the evaluation of the statistical significance of disease cluster alarms. The study of Natale et al.&nbsp;(2017), in a health-care facility in Italy showed that WHONET-saTScan was able to detect higher number of potential outbreaks as compared with the traditional epidemiological approach of investigation.<sup>[3]</sup> Moreover, Huang et al.&nbsp;(2010) stated that&nbsp; WHONET-SaTScan rapidly detected the two previously known gram negative pathogen clusters and identified six Methicillin Resistant Staphylococcus aureus (MRSA) and four Vancomycin Resistant Enterococci (VRE) clusters that were previously not recorded in the hospital facility.<sup>[4]</sup></p>
-<p>This software coupled with the use of whole genome sequencing (WGS) are the emerging tools for outbreak investigation.&nbsp; WGS refers to the construction of the complete nucleotide sequence of a bacterium. This technique enables the analysis of the entire DNA sequence of the genome including the non-coding regions of DNA. Moreover, it has the capacity to identify functionally important sequence variants that affects gene expression. The advantages and functionality of WGS delivers ultimate high resolution genotypic method which makes it a powerful approach for outbreak investigation together with epidemiological approach.</p>
+<h1><img src="images/clipboard-2742305045.png" class="img-fluid" width="37"><strong>LESSON PROPER</strong></h1>
+<p>Microreact is software developed by CGPS that allows you to upload, visualise and explore any combination of clustering (trees), geographic (map) and temporal (timeline) data. Other metadata variables are displayed in a table. You can specify colours and/or shapes to display on the map, tree and/or timeline. A permanent URL is produced for you to share your Microreact, or a .microreact file can be downloaded for sharing with collaborators.</p>
+<p>Microreact is a web-based application for the provision of interactive data visualisations. It enables the rapid generation and linkage of trees, maps, networks, charts and timelines, enabling epidemiologists and key decision makers to react faster and with greater accuracy.</p>
+<p>Microreact can be deployed securely on a local server, behind firewalls and adhering to local data governance. Users can make their Microreact projects findable on the network, or share them privately with another user by sharing a downloaded project or using secret links. Microreact projects for public consumption can be shared on the public Microreact site.</p>
+<table class="table">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Navigating the site</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>Click the menu icon</strong></p>
+<p>The menu bar can be accessed by clicking on the <img src="images/clipboard-3841067861.png" class="img-fluid" width="20">&nbsp;icon on the upper left corner of the page.</p>
+<p>Clicking the icon brings up the main menu.</p>
+<p><img src="images/clipboard-1818299586.png" class="img-fluid" width="674"></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>View the four main pages</strong></p>
+<p>This menu allows you to navigate the site. The site has four main pages:</p>
+<ul>
+<li>Showcase</li>
+<li>Upload</li>
+<li>Documentation</li>
+<li>My Account</li>
+</ul>
+<p>You may also use this menu to sign out of your account by clicking “Sign Out”. You may also submit feedback to the developers about Microreact by selecting “Send Feedback”.</p>
+<p><img src="images/clipboard-2215716855.png" class="img-fluid" width="650"></p></td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<colgroup>
+<col style="width: 19%">
+<col style="width: 80%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"></th>
+<th style="text-align: left;">Microreact Icon Summary</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><strong>Icon</strong></td>
+<td style="text-align: left;"><strong>Description</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="images/clipboard-3981886174.png" class="img-fluid"></td>
+<td style="text-align: left;">Display additional menu options. It can be found either within individual panels, or at the top left of your microreact account.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="images/clipboard-3817920621.png" class="img-fluid"></td>
+<td style="text-align: left;">Opens a menu to let you edit or delete existing panels, as well as add a new panel.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="images/clipboard-536453394.png" class="img-fluid"></td>
+<td style="text-align: left;">In this menu you can control selections for labels, colours, and shapes.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="images/clipboard-2564124677.png" class="img-fluid"></td>
+<td style="text-align: left;">Download individual project files, such as the metadata file, .newick files, etc.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="images/clipboard-1840735995.png" class="img-fluid"></td>
+<td style="text-align: left;">Update who has access to the project as well as find sharing links and create an easier alias link.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="images/clipboard-2187273493.png" class="img-fluid"></td>
+<td style="text-align: left;">Allows you to save a new project, update a current project, or download a file containing the complete project.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="images/clipboard-1446240851.png" class="img-fluid"></td>
+<td style="text-align: left;">This is the configure icon. It expands or collapses additional buttons or menus.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="images/clipboard-1171686000.png" class="img-fluid"></td>
+<td style="text-align: left;">Maximise expands one panel to cover the whole dashboard, minimise returns the panel to standard size.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="images/clipboard-418523427.png" class="img-fluid"></td>
+<td style="text-align: left;">This is the lasso tool (or polygon lasso). It allows you to draw a filter around points of interest on a network or tree to create a custom filter.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="images/clipboard-2700201066.png" class="img-fluid"></td>
+<td style="text-align: left;">Shuffles the nodes in a network.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="images/clipboard-1860303903.png" class="img-fluid"></td>
+<td style="text-align: left;">Automatically adjust the tree or network size to the current panel size</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="images/clipboard-377978205.png" class="img-fluid"></td>
+<td style="text-align: left;">Controls whether the tree is stretched/compressed in all four directions, only horizontally, or only vertically. Click the icon to toggle through the three modes.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="images/clipboard-295290660.png" class="img-fluid"></td>
+<td style="text-align: left;">This appears in the data table headers and allows you to filter by values or build filter conditions in any of the columns</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="images/clipboard-823691398.png" class="img-fluid"></td>
+<td style="text-align: left;">In the map panel this viewport button filters the dashboard to only things currently visible in the map panel.</td>
+</tr>
+</tbody>
+</table>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
