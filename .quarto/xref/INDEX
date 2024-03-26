@@ -49,5 +49,8 @@
   },
   "bioinformatics.qmd": {
     "bioinformatics.html": "30c15d41"
+  },
+  "speakers.qmd": {
+    "speakers.html": "eeb7626c"
   }
 }
