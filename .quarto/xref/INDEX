@@ -52,5 +52,20 @@
   },
   "speakers.qmd": {
     "speakers.html": "eeb7626c"
+  },
+  "evaluation.qmd": {
+    "evaluation.html": "5639f6d0"
+  },
+  "post_test.qmd": {
+    "post_test.html": "eb5887dd"
+  },
+  "pre-test.qmd": {
+    "pre-test.html": "e77e943f"
+  },
+  "pre_test.qmd": {
+    "pre_test.html": "259c7cb2"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "2b5e66b8"
   }
 }

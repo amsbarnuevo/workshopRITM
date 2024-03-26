@@ -4,27 +4,38 @@ project:
 website:
   title: "ARSRL DigiEpi Workshop"
   navbar:
-    logo: /img/digiepi_logo.jpg
-    left:
+    logo: /img/digiepi_logo
+    left: 
       - href: index.qmd
         text: Home
       - href: agenda.qmd
         text: Agenda
+      - href: syllabus.qmd
+        text: Syllabus  
       - href: speakers.qmd
         text: Resource Speakers
       - href: bioinformatics.qmd
-        text: Bioinformatics and Digital Epidemiology
+        text: Concept Overview
       - text: Module
         menu:
           - module1/module1.qmd
-          - resources.qmd
-      - text: Pre-Test/Post-Test
-      - text: Workshop Evaluation
-      - text: Got a question?
+          - module2/module2.qmd
+          - module3/module3.qmd
+          - module4/module4.qmd
+      - text: Workshop Materials
+        menu:
+          - pre_test.qmd
+          - post_test.qmd
+          - evaluation.qmd
+      - href: https://forms.gle/24xz7CarkWZjTbrn6
+        text: Got a question?
 
 
   page-footer: 
     left: "This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement" 
+    right: 
+      - icon: twitter 
+        href: https://twitter.com/TheCGPS
 
 
 format:

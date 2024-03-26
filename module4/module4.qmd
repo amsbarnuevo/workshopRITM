@@ -1,8 +1,8 @@
 ---
-title: "UNIT 1 - ARSRL SaTScan and Whole Genome Sequencing Enhanced Outbreak Investigation Protocol"
+title: "UNIT 4 - Digital Epidemiology Tool: MICROREACT"
 ---
 
-# ![](images/clipboard-1825711664.png){width="37"}**OUTLOOK**
+# **OUTLOOK**
 
 Unit 1 describes the rationale and the steps on the conduct of outbreak investigation of ARSRL featuring the SaTScan software of WHONET and Whole Genome Sequencing. At the end of this unit, the participants shall be able to:
 
@@ -10,7 +10,7 @@ Unit 1 describes the rationale and the steps on the conduct of outbreak investig
 
 -   enumerate the steps of the ARSRL outbreak investigation protocol.
 
-# ![](images/clipboard-2831795157.png){width="37"}**LESSON PROPER**
+# **LESSON PROPER**
 
 ## **Background**
 
