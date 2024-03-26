@@ -66,21 +66,15 @@ SaTScan analysis is not limited to the organisms listed in Table 1.  Cluster de
 
 **Table 1.** List of isolates regularly tested on SaTScan analysis.
 
-+:----------------------------:+:--------------------------:+:------------------------:+:------------------------:+
-| *Escherichia coli*           | *Vibrio cholerae*          | *Shigella* species       | *Burkholderia cepacia*   |
-+------------------------------+----------------------------+--------------------------+--------------------------+
-| *Klebsiella pneumoniae*      | *Haemophilus influenzae*   | *Neisseria meningitidis* | *Enterococcus faecalis*  |
-+------------------------------+----------------------------+--------------------------+--------------------------+
-| *Pseudomonas aeruginosa*     | *Streptococcus pneumoniae* | *Neisseria gonorrhoeae*  | *Enterococcus faecium*   |
-+------------------------------+----------------------------+--------------------------+--------------------------+
-| *Acinetobacter baumannii*    | *Streptococcus viridans*   | *Salmonella* species     | *Bacteroides fragilis*   |
-+------------------------------+----------------------------+--------------------------+--------------------------+
-| *Staphylococcus aureus*      | *Moraxella catarrhalis*    | *Serratia marcescens*    | *Campylobacter coli*     |
-+------------------------------+----------------------------+--------------------------+--------------------------+
-| *Campylobacter jejuni*       | *Corynebacterium s*pecies  | *Listeria monocytogenes* | *Proteus mirabilis*      |
-+------------------------------+----------------------------+--------------------------+--------------------------+
-| *Staphylococcus epidermidis* | *Citrobacter freundii*     | *Enterobacter cloacae*   | *Enterobacter aerogenes* |
-+------------------------------+----------------------------+--------------------------+--------------------------+
+|                              |                            |                          |                          |
+|:----------------------------:|:--------------------------:|:------------------------:|:------------------------:|
+|      *Escherichia coli*      |     *Vibrio cholerae*      |    *Shigella* species    |  *Burkholderia cepacia*  |
+|   *Klebsiella pneumoniae*    |  *Haemophilus influenzae*  | *Neisseria meningitidis* | *Enterococcus faecalis*  |
+|   *Pseudomonas aeruginosa*   | *Streptococcus pneumoniae* | *Neisseria gonorrhoeae*  |  *Enterococcus faecium*  |
+|  *Acinetobacter baumannii*   |  *Streptococcus viridans*  |   *Salmonella* species   |  *Bacteroides fragilis*  |
+|   *Staphylococcus aureus*    |  *Moraxella catarrhalis*   |  *Serratia marcescens*   |   *Campylobacter coli*   |
+|    *Campylobacter jejuni*    | *Corynebacterium s*pecies  | *Listeria monocytogenes* |   *Proteus mirabilis*    |
+| *Staphylococcus epidermidis* |   *Citrobacter freundii*   |  *Enterobacter cloacae*  | *Enterobacter aerogenes* |
 
 #### **3. *Selection of SaTScan confirmed clusters that will undergo Whole Genome Sequencing enhanced investigation***
 
@@ -98,9 +92,8 @@ A.  **Should meet the following primary criteria:**
 
             b.  Overlapping locations
 
-```{=html}
 <!-- -->
-```
+
 B.  **Must include at least one of the following secondary criteria:**
 
     I.  Involves the vulnerable population
@@ -123,69 +116,69 @@ B.  **Must include at least one of the following secondary criteria:**
 
     III. Isolates have the following resistance profiles:
 
-         +------------------------------------+-----------------------------------------------+
-         | Organism or organism group         | Antimicrobial agents and resistance phenotype |
-         +====================================+===============================================+
-         | *Enterobacterales*                 | • XDR                                         |
-         |                                    |                                               |
-         |                                    | • Carbapenem R                                |
-         |                                    |                                               |
-         |                                    | • Colistin/polymyxin R                        |
-         +------------------------------------+-----------------------------------------------+
-         | *Salmonella and Shigella sp*       | • Cefotaxime R                                |
-         |                                    |                                               |
-         |                                    | • Ceftriaxone R                               |
-         |                                    |                                               |
-         |                                    | • Cipro R                                     |
-         |                                    |                                               |
-         |                                    | • Azithromycin R                              |
-         +------------------------------------+-----------------------------------------------+
-         | *Acinetobacter baumanii*           | • Presumptive Pan-R                           |
-         |                                    |                                               |
-         |                                    | • Carbapenem R                                |
-         |                                    |                                               |
-         |                                    | • Colistin/polymyxin R                        |
-         +------------------------------------+-----------------------------------------------+
-         | *Pseudomonas aeruginosa*           | • Presumptive Pan-R                           |
-         |                                    |                                               |
-         |                                    | • Ceftolozane-tazobactam I or R               |
-         |                                    |                                               |
-         |                                    | • Carbapenem R                                |
-         |                                    |                                               |
-         |                                    | • Colistin/polymyxin R                        |
-         +------------------------------------+-----------------------------------------------+
-         | *Haemophilus influenzae*           | • Ceftolozane-tazobactam NS                   |
-         |                                    |                                               |
-         |                                    | • Cefotaxime NS                               |
-         |                                    |                                               |
-         |                                    | • Ceftazidime NS                              |
-         |                                    |                                               |
-         |                                    | • Ceftriaxone NS • Carbapenem NS              |
-         |                                    |                                               |
-         |                                    | • Any fluoroquinolone NS                      |
-         |                                    |                                               |
-         |                                    | • Lefamulin NS                                |
-         +------------------------------------+-----------------------------------------------+
-         | *Neisseria gonorrhoeae*            | • Ceftriaxone NS                              |
-         |                                    |                                               |
-         |                                    | • Cefixime NS                                 |
-         |                                    |                                               |
-         |                                    | • Azithromycin NS                             |
-         +------------------------------------+-----------------------------------------------+
-         | *Enterococcus spp*                 | • Vancomycin R (for efa only)                 |
-         |                                    |                                               |
-         |                                    | • Daptomycin SDD, I or R                      |
-         |                                    |                                               |
-         |                                    | • Linezolid R                                 |
-         +------------------------------------+-----------------------------------------------+
-         | *Staphylococcus aureus*            | • Ceftaroline SDD or R                        |
-         |                                    |                                               |
-         |                                    | • Vancomycin R                                |
-         |                                    |                                               |
-         |                                    | • Daptomycin NS                               |
-         |                                    |                                               |
-         |                                    | • Linezolid R                                 |
-         +------------------------------------+-----------------------------------------------+
+         +------------------------------+-----------------------------------------------+
+         | Organism or organism group   | Antimicrobial agents and resistance phenotype |
+         +==============================+===============================================+
+         | *Enterobacterales*           | • XDR                                         |
+         |                              |                                               |
+         |                              | • Carbapenem R                                |
+         |                              |                                               |
+         |                              | • Colistin/polymyxin R                        |
+         +------------------------------+-----------------------------------------------+
+         | *Salmonella and Shigella sp* | • Cefotaxime R                                |
+         |                              |                                               |
+         |                              | • Ceftriaxone R                               |
+         |                              |                                               |
+         |                              | • Cipro R                                     |
+         |                              |                                               |
+         |                              | • Azithromycin R                              |
+         +------------------------------+-----------------------------------------------+
+         | *Acinetobacter baumanii*     | • Presumptive Pan-R                           |
+         |                              |                                               |
+         |                              | • Carbapenem R                                |
+         |                              |                                               |
+         |                              | • Colistin/polymyxin R                        |
+         +------------------------------+-----------------------------------------------+
+         | *Pseudomonas aeruginosa*     | • Presumptive Pan-R                           |
+         |                              |                                               |
+         |                              | • Ceftolozane-tazobactam I or R               |
+         |                              |                                               |
+         |                              | • Carbapenem R                                |
+         |                              |                                               |
+         |                              | • Colistin/polymyxin R                        |
+         +------------------------------+-----------------------------------------------+
+         | *Haemophilus influenzae*     | • Ceftolozane-tazobactam NS                   |
+         |                              |                                               |
+         |                              | • Cefotaxime NS                               |
+         |                              |                                               |
+         |                              | • Ceftazidime NS                              |
+         |                              |                                               |
+         |                              | • Ceftriaxone NS • Carbapenem NS              |
+         |                              |                                               |
+         |                              | • Any fluoroquinolone NS                      |
+         |                              |                                               |
+         |                              | • Lefamulin NS                                |
+         +------------------------------+-----------------------------------------------+
+         | *Neisseria gonorrhoeae*      | • Ceftriaxone NS                              |
+         |                              |                                               |
+         |                              | • Cefixime NS                                 |
+         |                              |                                               |
+         |                              | • Azithromycin NS                             |
+         +------------------------------+-----------------------------------------------+
+         | *Enterococcus spp*           | • Vancomycin R (for efa only)                 |
+         |                              |                                               |
+         |                              | • Daptomycin SDD, I or R                      |
+         |                              |                                               |
+         |                              | • Linezolid R                                 |
+         +------------------------------+-----------------------------------------------+
+         | *Staphylococcus aureus*      | • Ceftaroline SDD or R                        |
+         |                              |                                               |
+         |                              | • Vancomycin R                                |
+         |                              |                                               |
+         |                              | • Daptomycin NS                               |
+         |                              |                                               |
+         |                              | • Linezolid R                                 |
+         +------------------------------+-----------------------------------------------+
 
     IV. Isolates included in the cluster are from presumptive nosocomial infections (with specimen date of 72 hrs or more from admission date)
 
