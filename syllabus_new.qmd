@@ -1,0 +1,73 @@
+---
+title: "SYLLABUS"
+---
+
+# **MODULE SPECIFICATION**
+
+|                      |                                                                 |
+|----------------------|-----------------------------------------------------------------|
+| **Target Audience**  | Public Health Professionals                                     |
+| **Learning Hours**   | 10 hours                                                        |
+| **Module Developer** | RITM-Antimicrobial Resistance Surveillance Reference Laboratory |
+
+# **WORSHOP OBJECTIVES**
+
+The conduct of this workshop aims to:
+
+![](images/clipboard-948969627.png)
+
+# **CONTENT OVERVIEW**
+
+-   Discussion on the steps of ARSRL SaTScan and Whole Genome Sequencing enhanced outbreak investigation protocol.
+
+-   Discussion on the role of WGS in public health and outbreak investigation.
+
+-   Discussion on the overview of the following digital epidemiology tools: Epicollect5, Pathogenwatch and Microreact.
+
+-   Hands-on activities on the use of Epicollect5, Pathogenwatch and Microreact.
+
+# **LEARNING OUTCOMES**
+
+After this workshop, the participants are expected to:
+
+![](images/clipboard-3384340523.png)
+
+# **ASSESSMENT OF LEARNING OUTCOMES**
+
+A written pre-test and post-test shall be administered before and after the training. All participants will be provided with a worksheet that will include formative assessment activities for each of the five learning outcomes of the workshop.
+
+# WORKSHOP FLOW DIAGRAM
+
+![](images/clipboard-3389325393.png)
+
+# **HOW THIS MODULE WORKS?**
+
++:------------------------------------:+:-----------------------------------------------------------------------------------------------+
+| ![](images/clipboard-605683760.png)  | **OUTLOOK**                                                                                    |
+|                                      |                                                                                                |
+|                                      | Provides the learning outcomes for each module unit.                                           |
++--------------------------------------+------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-1765740806.png) | **LESSON PROPER**                                                                              |
+|                                      |                                                                                                |
+|                                      | Provides an overview of the topic or description of features of the digital epidemiology tools |
++--------------------------------------+------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-3256539318.png) | **CLOCK-UP**                                                                                   |
+|                                      |                                                                                                |
+|                                      | Indicates the step-by-step guide of the hands-on activities during workshop.                   |
++--------------------------------------+------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-2568369782.png) | **BRAINWORK**                                                                                  |
+|                                      |                                                                                                |
+|                                      | Shows the summary of important concepts for each digital epidemiology tool.                    |
++--------------------------------------+------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-1446194848.png) | **SNAPSHOT**                                                                                   |
+|                                      |                                                                                                |
+|                                      | Indicates the summary of important concepts for each digital epidemiology tool.                |
++--------------------------------------+------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-3395272049.png) | **FLICK**                                                                                      |
+|                                      |                                                                                                |
+|                                      | List of journal articles and additional reference on the use of the featured tools.            |
++--------------------------------------+------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-3825032809.png) | **CHECKPOINT**                                                                                 |
+|                                      |                                                                                                |
+|                                      | This section includes as formative test.                                                       |
++--------------------------------------+------------------------------------------------------------------------------------------------+
