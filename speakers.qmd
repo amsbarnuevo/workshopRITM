@@ -24,7 +24,7 @@ title: "Meet the Resource Speakers"
 
 -   She works closely with CGPS stakeholders within the public health community to support and facilitate the use of molecular/genomic epidemiological analysis of infectious disease for surveillance and other public health response activities.
 
--   Prior to joining CGPS, Emmanuelle worked on the Global Research on Antimicrobial Resistance project at the University of Oxford where her work focused primarily on the global prevalence of drug resistant tuberculosis.
+-   Prior to joining CGPS, Emma worked on the Global Research on Antimicrobial Resistance project at the University of Oxford where her work focused primarily on the global prevalence of drug resistant tuberculosis.
 
 ![](img/georgie_cgps.jpg){fig-align="center" width="250"}
 
@@ -46,7 +46,7 @@ title: "Meet the Resource Speakers"
 
 -   Doctor Sonia is the Head of the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) housed in the Research Institute for Tropical Medicine (RITM).
 
--   She works with various AMR stakeholders across the Philippines with significant and outstanding contributions in Research for AMR and of Public Health interest. ***ADD MORE CONTENTS HERE***
+-   She works with various AMR stakeholders across the Philippines with significant and outstanding contributions in research for AMR and of public health interest. ***ADD MORE CONTENTS HERE***
 
 ![](img/maamfaye_ritm.jpg){fig-align="center" width="250"}
 
