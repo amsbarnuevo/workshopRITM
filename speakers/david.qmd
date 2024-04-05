@@ -1,4 +1,4 @@
-# ***David Michael Aanensen*** {style="background: orange; color: white; font-family: ui-serif;"}
+# ***David Michael Aanensen*** {style="background-image: url(img/speakers_bg.jpg);"}
 
 ### CGPS Director
 
