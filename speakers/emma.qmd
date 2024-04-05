@@ -10,4 +10,4 @@
 
 -   Prior to joining CGPS, Emma worked on the Global Research on Antimicrobial Resistance project at the University of Oxford where her work focused primarily on the global prevalence of drug resistant tuberculosis.
 
-[![](images/back-button-arrow-ef9013.png){fig-alt="Go Back" fig-align="left" width="36"}](speakers.qmd)
+[![](images/back-button-arrow-ef9013.png){fig-alt="Go Back" fig-align="left" width="36"}](workshopRITM/speakers.qmd)
