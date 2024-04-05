@@ -1,8 +1,8 @@
-# **David Michael Aanensen**
+# ***David Michael Aanensen***
 
 ### CGPS Director
 
-![](/img/david_cgps.jpg){style="float: right;" width="347"}
+![](/img/david_cgps.jpg){style="float: right; padding: 0.7em;" width="362"}
 
 -   David is the director of the Centre for Genomic Pathogen Surveillance (CGPS), which is at the forefront of bringing data modelling, software development, epidemiology, bioinformatics and machine learning, genomic technology, training and capacity building to deliver actionable public health information.
 
