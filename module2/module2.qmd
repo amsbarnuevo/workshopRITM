@@ -94,8 +94,8 @@ To learn and explore more on the advanced features of Epicollect5, click on the 
 
 For your further reading, the following journal articles below utilized Epicollect5 as their main data collection tool.
 
-|  **Study Title**                                                                                                                                                                                                                         | Author/s               | DOI                                             |
-|:---------------------|:----------------|:---------------------------------|
+| **Study Title**                                                                                                                                                                                                                          | Author/s               | DOI                                             |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------|
 | The unseen use of antimicrobials: Drivers of human antibiotic use in a community in Thailand and implications for surveillance                                                                                                           | Alhusein et al. 2024   | <https://doi.org/10.1080/17441692.2023.2298940> |
 | Antibiotic dispensing practices during COVID-19 and implications for antimicrobial resistance (AMR): parallel mystery client studies in Uganda and Tanzania                                                                              | Olamijuwon et al. 2023 | <https://doi.org/10.1186/s13756-022-01199-4>    |
 | Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA) | Asiimwe et al. 2021    | <https://doi.org/10.1136/bmjopen-2020-041418>   |

@@ -14,7 +14,7 @@ website:
         text: Syllabus  
       - href: speakers.qmd
         text: Resource Speakers
-      - href: bioinformatics.qmd
+      - href: concept overview.qmd
         text: Concept Overview
       - text: Module
         menu:
@@ -24,9 +24,9 @@ website:
           - module4/module4.qmd
       - text: Workshop Materials
         menu:
-          - Pre_test.qmd
-          - Post_test.qmd
-          - Evaluation.qmd
+          - pre_test.qmd
+          - post_test.qmd
+          - evaluation.qmd
       - href: https://forms.gle/24xz7CarkWZjTbrn6
         text: Got a question?
 

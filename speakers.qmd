@@ -2,65 +2,56 @@
 title: "Meet the Resource Speakers"
 ---
 
-
-
 ![](img/david_cgps.jpg){fig-align="center" width="250"}
 
 ## **David Michael Aanensen**
-#### Director
 
-- Director of the Centre for Genomic Pathogen Surveillance (CGPS), which is at the forefront of bringing data modelling, software development, epidemiology, bioinformatics and machine learning, genomic technology, training and capacity building to deliver actionable public health information. 
+#### CGPS Director
 
-- With the collective effort of his team, the Centre successfully developed digital epidemiology tools: Epicollect5, Pathogenwatch and Microreact which aids in surveillance of microbial pathogens through a combination of web application, software engineering and the use of genome sequencing.
+-   David is the director of the Centre for Genomic Pathogen Surveillance (CGPS), which is at the forefront of bringing data modelling, software development, epidemiology, bioinformatics and machine learning, genomic technology, training and capacity building to deliver actionable public health information.
 
-- Works with major public health agencies such as the US CDC, the European CDC, Public Health England, Wales, Scotland and the WHO. The Centre also hosts an NIHR-funded Global Health Research Unit on Genomic Surveillance of Antimicrobial Resistance, working with partners leading National AMR strategies in The Philippines, Colombia, Nigeria and India to implement genomic surveillance and linking to routine phenotypic and epidemiological data for priority pathogens. 
+-   With the collective effort of his team, the Centre successfully developed digital epidemiology tools: Epicollect5, Pathogenwatch and Microreact which aids in surveillance of microbial pathogens through a combination of web application, software engineering and the use of genome sequencing.
 
-
-
+-   Works with major public health agencies such as the US CDC, the European CDC, Public Health England, Wales, Scotland and the WHO. The Centre also hosts an NIHR-funded Global Health Research Unit on Genomic Surveillance of Antimicrobial Resistance, working with partners leading National AMR strategies in The Philippines, Colombia, Nigeria and India to implement genomic surveillance and linking to routine phenotypic and epidemiological data for priority pathogens.
 
 ![](img/emma_cgps.jpg){fig-align="center" width="250"}
 
 ## **Emmanuelle Kumaran**
+
 #### Digital Epidemiologist - Data Scientists
 
-- Emma holds a Master's in Public Health from the London School of Hygiene and tropical medicine and an undergraduate degree from Imperial College London.
+-   Emma holds a Master's in Public Health from the London School of Hygiene and tropical medicine and an undergraduate degree from Imperial College London.
 
-- She works closely with CGPS stakeholders within the public health community to support and facilitate the use of molecular/genomic epidemiological analysis of infectious disease for surveillance and other public health response activities. 
+-   She works closely with CGPS stakeholders within the public health community to support and facilitate the use of molecular/genomic epidemiological analysis of infectious disease for surveillance and other public health response activities.
 
-- Prior to joining CGPS, Emmanuelle worked on the Global Research on Antimicrobial Resistance project at the University of Oxford where her work focused primarily on the global prevalence of drug resistant tuberculosis.
-
-
-
+-   Prior to joining CGPS, Emmanuelle worked on the Global Research on Antimicrobial Resistance project at the University of Oxford where her work focused primarily on the global prevalence of drug resistant tuberculosis.
 
 ![](img/georgie_cgps.jpg){fig-align="center" width="250"}
 
 ## **Georgina Lewis-Woodhouse**
+
 #### Digital Epidemiologist - Data Scientists
 
-- Georgie has a Masters of Research (MRes) in Ecology, Evolution and Development and a BSc in Biology from Oxford Brookes University.
+-   Georgie has a Masters of Research (MRes) in Ecology, Evolution and Development and a BSc in Biology from Oxford Brookes University.
 
-- She works on the implementation of CGPS tools to facilitate the use of genomic epidemiology and data science in public health and infectious disease research. She joined CGPS in 2022 and works on a variety of projects within the group utilising a background in molecular biology, data science and epidemiology.
+-   She works on the implementation of CGPS tools to facilitate the use of genomic epidemiology and data science in public health and infectious disease research. She joined CGPS in 2022 and works on a variety of projects within the group utilising a background in molecular biology, data science and epidemiology.
 
-- Previously, Georgie worked for the Global Research on Antimicrobial Resistance (GRAM) project at the University of Oxford with a focus on modelling the prevalence of resistance of Staphylococcus aureus and Streptococcus pneumoniae as well as possible factors that drive AMR.
-
-
-
+-   Previously, Georgie worked for the Global Research on Antimicrobial Resistance (GRAM) project at the University of Oxford with a focus on modelling the prevalence of resistance of Staphylococcus aureus and Streptococcus pneumoniae as well as possible factors that drive AMR.
 
 ![](img/docsonia_ritm.jpg){fig-align="center" width="250"}
 
 ## **Sonia B. Sia, MD**
-#### Department Head
 
-- Doctor Sia is the Head of the Antimicrobial Resistance Surveillance Reference Laboratory housed in the Research Institute for Tropical Medicine. 
+#### ARSRL Head
 
-- She works with various AMR stakeholders across the Philippines with significant and outstanding contributions in Research for AMR and of Public Health interest. ***ADD MORE CONTENTS HERE*** 
+-   Doctor Sonia is the Head of the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) housed in the Research Institute for Tropical Medicine (RITM).
 
-
-
+-   She works with various AMR stakeholders across the Philippines with significant and outstanding contributions in Research for AMR and of Public Health interest. ***ADD MORE CONTENTS HERE***
 
 ![](img/maamfaye_ritm.jpg){fig-align="center" width="250"}
 
 ## **Ferissa Ablola, RMicro, MSPH**
+
 #### Bacteriologist III
 
-- Faye holds a Masters degree in Public Health from the University of the Philippines, Manila and is working her way to earning Doctor of Philosophy in Education with focus on Biology at University of the Philippines-Open University, Los Banos. ***ADD MORE CONTENTS HERE*** 
+-   Faye holds a Masters degree in Public Health from the University of the Philippines, Manila and is working her way to earning Doctor of Philosophy in Education with focus on Biology at University of the Philippines-Open University, Los Banos. ***ADD MORE CONTENTS HERE***
