@@ -25,10 +25,12 @@ website:
       - text: Workshop Materials
         menu:
           - pre_test/pre_test.qmd
-          - post_test.qmd
+          - post_test/post_test.qmd
           - evaluation.qmd
       - href: https://9lzm79dg.forms.app/arsrl-digiepiworkshop-pretest
         text: Pre-test
+      - href: https://9lzm79dg.forms.app/arsrl-digiepiworkshop-posttest
+        text: Post-test
       - href: https://9lzm79dg.forms.app/got-a-question-form
         text: Got a question?
 
