@@ -2,29 +2,9 @@
 title: "Meet the Resource Speakers"
 ---
 
-[![](img/david_cgps.jpg){fig-alt="David Michael Aanensen" fig-align="center" width="250"}](speakers/david.qmd)
-
-## **David Michael Aanensen**
-
-#### CGPS Director
-
--   David is the director of the Centre for Genomic Pathogen Surveillance (CGPS), which is at the forefront of bringing data modelling, software development, epidemiology, bioinformatics and machine learning, genomic technology, training and capacity building to deliver actionable public health information.
-
--   With the collective effort of his team, the Centre successfully developed digital epidemiology tools: Epicollect5, Pathogenwatch and Microreact which aids in surveillance of microbial pathogens through a combination of web application, software engineering and the use of genome sequencing.
-
--   Works with major public health agencies such as the US CDC, the European CDC, Public Health England, Wales, Scotland and the WHO. The Centre also hosts an NIHR-funded Global Health Research Unit on Genomic Surveillance of Antimicrobial Resistance, working with partners leading National AMR strategies in The Philippines, Colombia, Nigeria and India to implement genomic surveillance and linking to routine phenotypic and epidemiological data for priority pathogens.
-
-![](img/emma_cgps.jpg){fig-align="center" width="250"}
-
-## **Emmanuelle Kumaran**
-
-#### Digital Epidemiologist - Data Scientists
-
--   Emma holds a Master's in Public Health from the London School of Hygiene and tropical medicine and an undergraduate degree from Imperial College London.
-
--   She works closely with CGPS stakeholders within the public health community to support and facilitate the use of molecular/genomic epidemiological analysis of infectious disease for surveillance and other public health response activities.
-
--   Prior to joining CGPS, Emma worked on the Global Research on Antimicrobial Resistance project at the University of Oxford where her work focused primarily on the global prevalence of drug resistant tuberculosis.
+|                                                                     |                                                               |
+|:----------------------------------------------------------:|:----------:|
+| [![David Michael Aanensen](img/david_cgps.jpg)](speakers/david.qmd) | [![Emmanuelle Kumaran](img/emma_cgps.jpg)](speakers/emma.qmd) |
 
 ![](img/georgie_cgps.jpg){fig-align="center" width="250"}
 
