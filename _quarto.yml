@@ -14,7 +14,7 @@ website:
         text: Syllabus  
       - href: speakers.qmd
         text: Resource Speakers
-      - href: concept overview.qmd
+      - href: concept_overview.qmd
         text: Concept Overview
       - text: Module
         menu:
