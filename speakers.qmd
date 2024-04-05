@@ -2,9 +2,11 @@
 title: "Meet the Resource Speakers"
 ---
 
-|                                                                     |                                                               |
-|:----------------------------------------------------------:|:----------:|
-| [![David Michael Aanensen](img/david_cgps.jpg)](speakers/david.qmd) | [![Emmanuelle Kumaran](img/emma_cgps.jpg)](speakers/emma.qmd) |
++:--------------------------------------------------------------------------------:+:--------------------------------------------------------------------------:+
+| [![David Michael Aanensen](img/david_cgps.jpg){width="420"}](speakers/david.qmd) | [![Emmanuelle Kumaran](img/emma_cgps.jpg){width="420"}](speakers/emma.qmd) |
+|                                                                                  |                                                                            |
+| ### **David Michael Aanensen**                                                   | ### Emmanuelle Kumaran                                                     |
++----------------------------------------------------------------------------------+----------------------------------------------------------------------------+
 
 ![](img/georgie_cgps.jpg){fig-align="center" width="250"}
 
