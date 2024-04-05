@@ -24,10 +24,12 @@ website:
           - module4/module4.qmd
       - text: Workshop Materials
         menu:
-          - pre_test.qmd
+          - pre_test/pre_test.qmd
           - post_test.qmd
           - evaluation.qmd
-      - href: https://forms.gle/24xz7CarkWZjTbrn6
+      - href: https://9lzm79dg.forms.app/arsrl-digiepiworkshop-pretest
+        text: Pre-test
+      - href: https://9lzm79dg.forms.app/got-a-question-form
         text: Got a question?
 
 
