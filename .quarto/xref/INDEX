@@ -88,5 +88,22 @@
   },
   "pre_test/pre_test.qmd": {
     "pre_test.html": "3d802282"
+  },
+<<<<<<< Updated upstream
+  "speakers/david.qmd": {
+    "david.html": "a84b3256"
+  },
+  "speakers/emma.qmd": {
+    "emma.html": "4aab25fd"
+  },
+  "speakers2.qmd": {
+    "speakers2.html": "86414804"
+=======
+  "post_test/post_test.qmd": {
+    "post_test.html": "f0d4eb9e"
+  },
+  "speakers/david.qmd": {
+    "david.html": "e0f4b5c7"
+>>>>>>> Stashed changes
   }
 }
