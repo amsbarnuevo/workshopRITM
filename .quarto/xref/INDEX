@@ -88,5 +88,14 @@
   },
   "pre_test/pre_test.qmd": {
     "pre_test.html": "3d802282"
+  },
+  "speakers/david.qmd": {
+    "david.html": "a84b3256"
+  },
+  "speakers/emma.qmd": {
+    "emma.html": "4aab25fd"
+  },
+  "speakers2.qmd": {
+    "speakers2.html": "86414804"
   }
 }
