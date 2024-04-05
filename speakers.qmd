@@ -2,7 +2,7 @@
 title: "Meet the Resource Speakers"
 ---
 
-![](img/david_cgps.jpg){fig-align="center" width="250"}
+[![](img/david_cgps.jpg){fig-alt="David Michael Aanensen" fig-align="center" width="250"}](speakers/david.qmd)
 
 ## **David Michael Aanensen**
 
