@@ -22,7 +22,7 @@ All sentinel sites implement standard methods for culture and susceptibility tes
 
 The ARSRL’s Data Management Unit manages the cleaning, analysis, storage and security of the program’s surveillance data. Sentinel sites likewise send isolates with unusual antimicrobial susceptibility patterns to ARSRL for phenotypic and genotypic confirmatory testing. At the reference laboratory, all isolates with unusual susceptibility patterns received for confirmatory testing are re-identified using both automated (Vitek) and conventional methods. Both minimum inhibitor concentration (MIC) - via automated method (Vitek) and gradient E-test, and disk diffusion are employed in antimicrobial susceptibility testing. As indicated, additional testing is done for specific antibiotics which are not included in AST card in use in the reference laboratory and for susceptibility testing for specific bacteria such as *N. gonorrhea* which requires manual AST methods. Serotyping for *S. pneumoniae*, *H. influenzae*, *Salmonellae*, *Shigellae* and *Vibrio cholera*e were done for 2022. Further, for 2022, select isolates with resistance phenotype which have not been previously reported or have been only rarely reported to date underwent whole genome sequencing (WGS) at the Antimicrobial Surveillance Reference Laboratory (ARSRL). The genomic characterization of these isolates is meant to allow for the understanding of resistance mechanisms of these isolates as well as their potential for spread in order to inform control and prevention measures. Beginning January 2018, sentinel sites transmit culture and susceptibility data daily to the reference laboratory (ARSRL) through ARSP ftp server using WinSCP. The automated data transfer facilitates prompt identification by the ARSRL of resistant isolates of public health importance as well the identification of clustering of cases and potential outbreaks among sentinel sites.                  
 
- SaTScan is a free cluster-detection software application embedded in WHONET which is used by epidemiologists globally to describe spatial clusters of infectious and chronic disease, as well as disease vectors and risk factors. The software can identify whether the infection is randomly distributed over space, overtime or over space and time. Moreover, it allows the evaluation of the statistical significance of disease cluster alarms. The study of Natale et al. (2017), in a health-care facility in Italy showed that WHONET-saTScan was able to detect higher number of potential outbreaks as compared with the traditional epidemiological approach of investigation.^\[3\]^ Moreover, Huang et al. (2010) stated that  WHONET-SaTScan rapidly detected the two previously known gram negative pathogen clusters and identified six Methicillin Resistant Staphylococcus aureus (MRSA) and four Vancomycin Resistant Enterococci (VRE) clusters that were previously not recorded in the hospital facility.^\[4\]^
+ SaTScan is a free cluster-detection software application embedded in WHONET which is used by epidemiologists globally to describe spatial clusters of infectious and chronic disease, as well as disease vectors and risk factors. The software can identify whether the infection is randomly distributed over space, over time or over space and time. Moreover, it allows the evaluation of the statistical significance of disease cluster alarms. The study of Natale et al. (2017), in a health-care facility in Italy showed that WHONET-saTScan was able to detect higher number of potential outbreaks as compared with the traditional epidemiological approach of investigation.^\[3\]^ Moreover, Huang et al. (2010) stated that  WHONET-SaTScan rapidly detected the two previously known gram negative pathogen clusters and identified six Methicillin Resistant Staphylococcus aureus (MRSA) and four Vancomycin Resistant Enterococci (VRE) clusters that were previously not recorded in the hospital facility.^\[4\]^
 
 This software coupled with the use of whole genome sequencing (WGS) are the emerging tools for outbreak investigation.  WGS refers to the construction of the complete nucleotide sequence of a bacterium. This technique enables the analysis of the entire DNA sequence of the genome including the non-coding regions of DNA. Moreover, it has the capacity to identify functionally important sequence variants that affects gene expression. The advantages and functionality of WGS delivers ultimate high resolution genotypic method which makes it a powerful approach for outbreak investigation together with epidemiological approach.
 
@@ -66,15 +66,21 @@ SaTScan analysis is not limited to the organisms listed in Table 1.  Cluster de
 
 **Table 1.** List of isolates regularly tested on SaTScan analysis.
 
-|                              |                            |                          |                          |
-|:----------------------------:|:--------------------------:|:------------------------:|:------------------------:|
-|      *Escherichia coli*      |     *Vibrio cholerae*      |    *Shigella* species    |  *Burkholderia cepacia*  |
-|   *Klebsiella pneumoniae*    |  *Haemophilus influenzae*  | *Neisseria meningitidis* | *Enterococcus faecalis*  |
-|   *Pseudomonas aeruginosa*   | *Streptococcus pneumoniae* | *Neisseria gonorrhoeae*  |  *Enterococcus faecium*  |
-|  *Acinetobacter baumannii*   |  *Streptococcus viridans*  |   *Salmonella* species   |  *Bacteroides fragilis*  |
-|   *Staphylococcus aureus*    |  *Moraxella catarrhalis*   |  *Serratia marcescens*   |   *Campylobacter coli*   |
-|    *Campylobacter jejuni*    | *Corynebacterium s*pecies  | *Listeria monocytogenes* |   *Proteus mirabilis*    |
-| *Staphylococcus epidermidis* |   *Citrobacter freundii*   |  *Enterobacter cloacae*  | *Enterobacter aerogenes* |
++:----------------------------:+:--------------------------:+:------------------------:+:------------------------:+
+| *Escherichia coli*           | *Vibrio cholerae*          | *Shigella* species       | *Burkholderia cepacia*   |
++------------------------------+----------------------------+--------------------------+--------------------------+
+| *Klebsiella pneumoniae*      | *Haemophilus influenzae*   | *Neisseria meningitidis* | *Enterococcus faecalis*  |
++------------------------------+----------------------------+--------------------------+--------------------------+
+| *Pseudomonas aeruginosa*     | *Streptococcus pneumoniae* | *Neisseria gonorrhoeae*  | *Enterococcus faecium*   |
++------------------------------+----------------------------+--------------------------+--------------------------+
+| *Acinetobacter baumannii*    | *Streptococcus viridans*   | *Salmonella* species     | *Bacteroides fragilis*   |
++------------------------------+----------------------------+--------------------------+--------------------------+
+| *Staphylococcus aureus*      | *Moraxella catarrhalis*    | *Serratia marcescens*    | *Campylobacter coli*     |
++------------------------------+----------------------------+--------------------------+--------------------------+
+| *Campylobacter jejuni*       | *Corynebacterium s*pecies  | *Listeria monocytogenes* | *Proteus mirabilis*      |
++------------------------------+----------------------------+--------------------------+--------------------------+
+| *Staphylococcus epidermidis* | *Citrobacter freundii*     | *Enterobacter cloacae*   | *Enterobacter aerogenes* |
++------------------------------+----------------------------+--------------------------+--------------------------+
 
 #### **3. *Selection of SaTScan confirmed clusters that will undergo Whole Genome Sequencing enhanced investigation***
 
