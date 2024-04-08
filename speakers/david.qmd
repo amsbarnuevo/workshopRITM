@@ -10,4 +10,4 @@
 
 -   Works with major public health agencies such as the US CDC, the European CDC, Public Health England, Wales, Scotland and the WHO. The Centre also hosts an NIHR-funded Global Health Research Unit on Genomic Surveillance of Antimicrobial Resistance, working with partners leading National AMR strategies in The Philippines, Colombia, Nigeria and India to implement genomic surveillance and linking to routine phenotypic and epidemiological data for priority pathogens.
 
-[![](images/back-button-arrow-ef9013.png){fig-alt="Go Back" fig-align="left" width="36"}](speakers.qmd)
+[![](images/back-button-arrow-ef9013.png){fig-alt="Go Back" fig-align="left" width="36"}](workshopRITM/speakers.qmd)
